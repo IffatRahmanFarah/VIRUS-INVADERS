@@ -30,7 +30,7 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/yourusername/virus-invaders.git
+git clone https:https://github.com/IffatRahmanFarah/VIRUS-INVADERS.git
 
 
 Navigate to the project folder:
